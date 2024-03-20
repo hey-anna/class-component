@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import BoxClass from "./component/BoxClass";
+import "./App.css";
 
 //
 // const choice = {
