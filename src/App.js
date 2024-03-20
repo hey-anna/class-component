@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import "./App.css";
-import Box from "./component/Box";
+// import Box from "./component/Box";
 
 function App() {
   let counter = 0;
